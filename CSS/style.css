@@ -1,0 +1,10 @@
+.Login-wrapper {
+  background-image: url('../images/LoginBg.jpg');
+  height: 650px;
+}
+.Register-wrapper{
+  background-image: url('../images/LoginBg.jpg');
+}
+body {
+  min-height: 100vh;
+}
